@@ -1,7 +1,9 @@
 # assignment-books
 CetStudentBook - Assignment: Books CRUD
 This project is an extended version of the CetStudentBook application. The goal of this assignment was to implement a full CRUD (Create, Read, Update, Delete) system for a "Book" entity manually, without using any scaffolding tools.
+
 Features Implemented
+
 The following features have been implemented manually as per the assignment requirements:
 
 Manual Controller & Views: Created BooksController and all Razor views (Index, Create, Edit, Delete) from scratch without auto-generation.
